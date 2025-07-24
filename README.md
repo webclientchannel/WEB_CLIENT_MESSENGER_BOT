@@ -1,4 +1,4 @@
-<h1 align="center">Meheraz's Bot </h1>
+<h1 align="center">🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩 </h1>
 
 <p align="center">
   <a href="https://files.catbox.moe/7tfxcz.jpg">
@@ -10,9 +10,9 @@
 
 ## 👤 OWNER INFO
 
-- 👑 Name: **MEHERaZ**
+- 👑 Name: **🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩**
 - 🏙️ From: **Chittagong**
-- 🎂 Age: **16**
+- 🎂 Age: **20-08-2025**
 
 ---
 
@@ -39,7 +39,7 @@ Rename these files:
 ---
 
 ### 🥉 3rd Step
-Go to [UptimeRobot.com](https://uptimerobot.com) and sign up
+Go to [UptimeRobot.com](https://betterstack.com) and sign up
 
 - Tap ➕ `Create Monitor`
 - Choose `HTTPS`
@@ -52,4 +52,5 @@ Go to [UptimeRobot.com](https://uptimerobot.com) and sign up
 
 ---
 
-> 🤖 **Need help?** Contact MaHi or open an issue in the repo.
+> 🤖 **Need help?** Contact 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩 or open an issue in the repo.
+> GROUP LINK:
