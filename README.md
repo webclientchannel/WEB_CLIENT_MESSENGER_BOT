@@ -39,7 +39,7 @@ Rename these files:
 ---
 
 ### 🥉 3rd Step
-Go to [UptimeRobot.com](https://betterstack.com) and sign up
+Go to [BetterStack.com](https://betterstack.com) and sign up
 
 - Tap ➕ `Create Monitor`
 - Choose `HTTPS`
