@@ -1,21 +1,9 @@
-<img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
-
 ## 👨‍💻 Development Team
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ntkhang03">
-        <img src="https://avatars.githubusercontent.com/u/81167726?v=4" width="100px;" alt="NTKhang"/>
-        <br/>
-        <sub><b>NTKhang</b></sub>
-      </a>
-      <br/>
-      <span>Original Creator</span>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xnil6x-obito">
+      <a href="https://github.com/meherazislamchisty">
         <img src="https://avatars.githubusercontent.com/u/221610963?v=4" width="100px;" alt="XNIL6X"/>
         <br/>
         <sub><b>XNIL6X OBITO</b></sub>
