@@ -5,7 +5,7 @@ module.exports = {
     name: "accept",
     aliases: ['acp'],
     version: "1.0",
-    author: "xnil6x",
+    author: "🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
     countDown: 8,
     role: 2,
     shortDescription: "Manage friend requests stylishly",
