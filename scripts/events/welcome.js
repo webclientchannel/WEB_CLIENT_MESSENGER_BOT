@@ -26,10 +26,10 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
+			welcomeMessage: "━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝗕𝗢𝗧☠️👾𝗖𝐎𝐎𝐊𝐈𝐄☔︎ 𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗 𝗦𝗨𝗖𝗖𝗘𝗦𝗙𝗨𝗟𝗟\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n𝗕𝗢𝗧 𝗧𝗘𝗔𝗠: 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞: https://www.facebook.com/profile.php?id=61578746341270\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠: https://www.instagram.com/web_client_channel?igsh=MTBjYTZqcWVlajNhMw==\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣: https://wa.me/+8801905723557\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n𝗙𝗿𝗼𝗸 𝗟𝗶𝗻𝗸:https://github.com/webclientchannel/Web_Client_Bot.git\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━"
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
+			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩`
 		}
 	},
 
