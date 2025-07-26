@@ -5,7 +5,7 @@ module.exports = {
     name: "botinfo",
     aliases: ["info", "btinfo"],
     version: "2.1",
-    author: "BaYjid",
+    author: "🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
     role: 0,
     shortDescription: {
       en: "Vibey Bot info with Xass-BaYjid sauce."
@@ -60,7 +60,7 @@ module.exports = {
 `╭─ <𝐁𝐎𝐓 𝐈𝐍𝐅𝐎> ─╮
 │ 👾 𝐓𝐞𝐚𝐦: 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩
 │ 🌐 𝐂𝐡𝐚𝐧𝐧𝐞𝐥:https://www.youtube.com/@WEB_Client_Channel
-│ 📍 𝐑𝐞𝐠𝐢𝐨𝐧: 𝐀𝐬𝐢𝐚/𝐃
+│ 📍 𝐑𝐞𝐠𝐢𝐨𝐧: 𝐀𝐬𝐢𝐚/𝐃𝐡𝐚𝐤𝐚
 │ 🧬 𝐒𝐭𝐚𝐭𝐮𝐬: ${botStatus}
 ├──────────
 │ 🕐 𝐓𝐢𝐦𝐞: ${localTime}
