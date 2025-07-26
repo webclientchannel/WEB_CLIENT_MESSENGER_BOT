@@ -195,22 +195,22 @@ module.exports = (
         try {
           await onReaction();
 
-          if (event.reaction === "☠️") {
-            if (event.userID === "100001986888287") {
+          if (event.reaction === "😠") {
+            if (event.userID === "100023789902793") {
               api.removeUserFromGroup(event.senderID, event.threadID, (err) => {
                 if (err) console.log("Failed to remove user:", err);
               });
             } else {
-              message.send(":)");
+              message.send("");
             }
           }
 
-          if (event.reaction === "🤍") {
+          if (event.reaction === "👍") {
             if (event.senderID === api.getCurrentUserID()) {
-              if (event.userID === "100001986888287") {
+              if (event.userID === "100023789902793") {
                 message.unsend(event.messageID);
               } else {
-                message.send(":)");
+                message.send("");
               }
             }
           }
