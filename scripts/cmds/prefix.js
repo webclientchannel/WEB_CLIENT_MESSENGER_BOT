@@ -96,14 +96,14 @@ module.exports = {
 			const [datePart, timePart] = dateTime.split(", ");
 
 			const infoBox = `
-╔═════ OBITO CHATBOT ════╗
+╔═════ 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝗕𝗢𝗧☠️ ════╗
 🌐 System Prefix  : ${systemPrefix.padEnd(10)}
 💬 Group Prefix   : ${groupPrefix.padEnd(10)} 
 🕒 Time           : ${timePart.padEnd(10)} 
 📅 Date           : ${datePart.padEnd(10)}
-╚══════════════════╝`;
+╚══════════════════════════╝`;
 
-			const prefixImage = "https://i.ibb.co/Zzqz5nBx/file-00000000588061f6ac814c432f6c0273.png";
+			const prefixImage = "https://files.catbox.moe/30c4l5.jpg";
 
 			return message.reply({
 				body: infoBox,
