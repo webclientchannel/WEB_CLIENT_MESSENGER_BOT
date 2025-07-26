@@ -38,21 +38,21 @@ module.exports = {
 
     en: {
 
-      invalidNumber: "⚠️ | Invalid Input\n━━━━━━━━━━━━━━\n\n» %1 is not a valid number. Please enter numbers only.",
+      invalidNumber: "⚠️ | Invalid Input\n━━━━━━━━━━━━━━\n\n» %1 is not a valid number. Please enter numbers only.\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
 
-      cancelSuccess: "❌ | Request Denied\n━━━━━━━━━━━━━━\n\n» Successfully rejected %1 group request(s).",
+      cancelSuccess: "❌ | Request Denied\n━━━━━━━━━━━━━━\n\n» Successfully rejected %1 group request(s).\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
 
-      approveSuccess: "✅ | Request Approved\n━━━━━━━━━━━━━━\n\n» Successfully approved %1 group(s).",
+      approveSuccess: "✅ | Request Approved\n━━━━━━━━━━━━━━\n\n» Successfully approved %1 group(s).\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
 
-      cantGetPendingList: "⚠️ | Error\n━━━━━━━━━━━━━━\n\n» Failed to retrieve pending list. Please try again later.",
+      cantGetPendingList: "⚠️ | Error\n━━━━━━━━━━━━━━\n\n» Failed to retrieve pending list. Please try again later.\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
 
-      returnListPending: "📋 | Pending Groups (%1)\n━━━━━━━━━━━━━━\n\n%2\n» Reply with:\n» ' approve <numbers>' to approve\n» ' cancel <numbers>' to reject\n» Example: 'pending approve 1 2 3'",
+      returnListPending: "📋 | Pending Groups (%1)\n━━━━━━━━━━━━━━\n\n%2\n» Reply with:\n» ' approve <numbers>' to approve\n» ' cancel <numbers>' to reject\n» Example: 'Approve 1 2 3'\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
 
-      returnListClean: "ℹ️ | No Pending Groups\n━━━━━━━━━━━━━━\n\n» There are currently no groups in the pending list.",
+      returnListClean: "ℹ️ | No Pending Groups\n━━━━━━━━━━━━━━\n\n» There are currently no groups in the pending list.\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝗕𝗢𝗧☠️",
 
-      noSelection: "⚠️ | Missing Input\n━━━━━━━━━━━━━━\n\n» Please specify which groups to process.\n» Example: 'Approve 1 2 3'",
+      noSelection: "⚠️ | Missing Input\n━━━━━━━━━━━━━━\n\n» Please specify which groups to process.\n» Example: 'Approve 1 2 3'\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
 
-      instruction: "📝 | Instructions\n━━━━━━━━━━━━━━\n\n1. View pending groups with '{pn}'\n2. Approve with '{pn} approve <numbers>'\n3. Reject with '{pn} cancel <numbers>'\n\nExample:\n» '{pn} approve 1 2 3'\n» '{pn} cancel 4 5'"
+      instruction: "📝 | Instructions\n━━━━━━━━━━━━━━\n\n1. View pending groups with '{pn}'\n2. Approve with '{pn} approve <numbers>'\n3. Reject with '{pn} cancel <numbers>'\n\nExample:\n» '{pn} approve 1 2 3'\n» '{pn} cancel 4 5'\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩"
 
     }
 
