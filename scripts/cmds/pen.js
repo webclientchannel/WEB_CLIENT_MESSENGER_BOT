@@ -6,7 +6,7 @@ module.exports = {
 
     version: "1.1",
 
-    author: "xnil",
+    author: "🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
 
     countDown: 5,
 
@@ -50,7 +50,7 @@ module.exports = {
 
       returnListClean: "ℹ️ | No Pending Groups\n━━━━━━━━━━━━━━\n\n» There are currently no groups in the pending list.",
 
-      noSelection: "⚠️ | Missing Input\n━━━━━━━━━━━━━━\n\n» Please specify which groups to process.\n» Example: 'pending approve 1 2 3'",
+      noSelection: "⚠️ | Missing Input\n━━━━━━━━━━━━━━\n\n» Please specify which groups to process.\n» Example: 'Approve 1 2 3'",
 
       instruction: "📝 | Instructions\n━━━━━━━━━━━━━━\n\n1. View pending groups with '{pn}'\n2. Approve with '{pn} approve <numbers>'\n3. Reject with '{pn} cancel <numbers>'\n\nExample:\n» '{pn} approve 1 2 3'\n» '{pn} cancel 4 5'"
 
@@ -107,6 +107,8 @@ module.exports = {
         `│ 👥 Members: ${group.participantIDs.length}\n` +
 
         `│ 🆔 ID: ${group.threadID}\n` +
+        
+        `│ 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩
 
         `╰───────────────`
 
@@ -224,7 +226,7 @@ module.exports = {
 
           await api.sendMessage(
 
-            "🔔 | Group Notification\n━━━━━━━━━━━━━━\n\n» This group has been approved by the admin.",
+            "🔔 | Group Notification\n━━━━━━━━━━━━━━\n\n» This group has been approved by the admin.\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
 
             group.threadID
 
