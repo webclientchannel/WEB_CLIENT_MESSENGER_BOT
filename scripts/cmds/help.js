@@ -7,7 +7,7 @@ module.exports = {
   config: {
     name: "help",
     version: "3.2",
-    author: "NTKhang // xnil6x",
+    author: "🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
     countDown: 5,
     role: 0,
     description: "View command information with enhanced interface",
@@ -20,7 +20,7 @@ module.exports = {
   langs: {
     en: {
       helpHeader: "╔══════════◇◆◇══════════╗\n"
-                + "      BOT COMMAND LIST\n"
+                + "  🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝗕𝗢𝗧☠️ COMMAND LIST\n"
                 + "╠══════════◇◆◇══════════╣",
       categoryHeader: "\n   ┌────── {category} ──────┐\n",
       commandItem: "║ │ 🟢 {name}",
