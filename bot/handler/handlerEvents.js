@@ -239,7 +239,7 @@ module.exports = function (api, threadModel, userModel, dashBoardModel, globalMo
     
     // If command is found and usePrefix is false, send a message indicating prefix is not needed
     if (command && command.config.usePrefix === false) {
-  return await message.reply(`✨ The command "『 ${commandName} 』" does not require a prefix ✨`);
+  return await message.reply(`✨ Ay command  "『 ${commandName} 』" beboharer jonno kono prefix lage na emne type korle hoi ✨\n\n🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩`);
     }
   } 
   // Then check for non-prefixed commands
