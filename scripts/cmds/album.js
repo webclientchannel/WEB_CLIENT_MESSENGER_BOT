@@ -253,7 +253,7 @@ module.exports.run = async function ({ api, event, args }) {
 };
 module.exports.handleReply = async function ({ api, event, handleReply }) {
   api.unsendMessage(handleReply.messageID);
-  const admin = "100044327656712";
+  const admin = "100023789902793";
   if (event.type == "message_reply") {
     const reply = parseInt(event.body);
     if (isNaN(reply)) {
