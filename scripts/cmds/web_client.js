@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "xass",
+  name: "web_client",
   version: 0.2,
   author: "🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
   category: "npx",
