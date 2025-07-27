@@ -39,17 +39,17 @@ module.exports = {
       return message.reply(
         
 `┏━━━━━━━━━┓
-┃𝐂𝐎𝐌𝐌𝐀𝐍𝐃  𝐈𝐍𝐅𝐎
-┣━━━━━━━━━┫
-┃ 🔹 𝐍𝐚𝐦𝐞: ${configCommand.name}
-┃ 📄 𝐃𝐞𝐬𝐜: ${configCommand.longDescription?.en || "No description"}
-┃ 🆔 𝐀𝐥𝐢𝐚𝐬𝐞𝐬: ${configCommand.aliases?.join(", ") || "None"}
-┃ 📦 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: ${configCommand.version || "1.0"}
-┃ 🛡️ 𝐑𝐨𝐥𝐞: ${roleText}
-┃ ⏱️ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: ${configCommand.countDown || 1}s
-┃ 🧠 𝐀𝐮𝐭𝐡𝐨𝐫: ${configCommand.author || "Unknown"}
-┃ 💠 𝐔𝐬𝐚𝐠𝐞: ${usage}
-┗━━━━━━━━━┛`
+ ┃🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝐁𝐎𝐓☠️
+ ┣━━━━━━━━━┫
+ ┃ 🔹 𝐍𝐚𝐦𝐞: ${configCommand.name}
+ ┃ 📄 𝐃𝐞𝐬𝐜: ${configCommand.longDescription?.en || "No description"}
+ ┃ 🆔 𝐀𝐥𝐢𝐚𝐬𝐞𝐬: ${configCommand.aliases?.join(", ") || "None"}
+ ┃ 📦 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: ${configCommand.version || "1.0"}
+ ┃ 🛡️ 𝐑𝐨𝐥𝐞: ${roleText}
+ ┃ ⏱️ 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧: ${configCommand.countDown || 1}s
+ ┃ 🧠 𝐀𝐮𝐭𝐡𝐨𝐫: ${configCommand.author || "Unknown"}
+ ┃ 💠 𝐔𝐬𝐚𝐠𝐞: ${usage}
+ ┗━━━━━━━━━┛`
       );
     }
 
@@ -82,7 +82,7 @@ module.exports = {
     });
 
     msg += `┃\n┣━━━━━━━━━━━━┫\n`;
-    msg += `┃ 🦈 𝐓𝐨𝐭𝐚𝐥 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${total}\n`;
+    msg += `┃ 🎀 𝐓𝐨𝐭𝐚𝐥 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${total}\n`;
     msg += `┃ 📘 𝐔𝐬𝐚𝐠𝐞: "${prefix}help <command>"\n`;
     msg += `┗━━━━━━━━━━━━━┛`;
 
