@@ -5,7 +5,7 @@ module.exports = {
   config: Object.freeze({
     name: "help",
     version: "1.20",
-    author: "BaYjid",
+    author: "🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
     countDown: 5,
     role: 0,
     shortDescription: { en: "📖 View command usage" },
