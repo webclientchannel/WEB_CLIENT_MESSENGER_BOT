@@ -25,7 +25,7 @@ module.exports.onStart = async ({ api, event }) => {
   try {
    const allUrl = event.messageReply?.attachments[0]?.url; 
    if (!allUrl) {
-        return api.sendMessage("Ekta image ba video diye reply den %1catbox jate sheta uplode dite pari🎀", event.threadID, event.messageID);
+        return api.sendMessage("Ekta image ba video diye reply den prefix then catbox jate sheta uplode dite pari🎀", event.threadID, event.messageID);
       };
    const msg = await api.sendMessage("✨ Apnar attachment Uploading Hocche.. Kichukkhon opekkha koren✨", event.threadID);
 
