@@ -18,14 +18,14 @@ module.exports.onChat = async ({ api, event, args }) => {
       api.sendMessage(
         {
           body: 
- `┏━━━✦✗✦━━━┓
+  `┏━━━✦✗✦━━━┓
 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝐁𝐎𝐓☠️  
   ┗━━━✦✗✦━━━┛
   
- > Owner: 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩 
- > 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝐁𝐎𝐓☠️
- Apni o ki chan? bot banate??
- tayle type koren How can make bot/How to make bot
+ > Owner: 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩\n 
+ > 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝐁𝐎𝐓☠️\n
+ Apni o ki chan? bot banate??\n
+ Tayle type koren [ How can make bot/How to make bot ]
 `,
         },
         event.threadID,
