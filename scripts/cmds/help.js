@@ -8,7 +8,7 @@ module.exports = {
     author: "🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
     countDown: 5,
     role: 0,
-    shortDescription: { en: "📖 View command usage" },
+    shortDescription: { en: "no prefix command." },
     longDescription: { en: "📜 View command usage and list all commands directly" },
     category: "ℹ️ Info",
     guide: { en: "🔹 {pn} / help cmdName" },
