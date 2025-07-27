@@ -25,7 +25,7 @@ module.exports.onStart = async ({ api, event }) => {
   try {
    const allUrl = event.messageReply?.attachments[0]?.url; 
    if (!allUrl) {
-        return api.sendMessage("Ekta image ba video diye reply den prefix then catbox jate sheta uplode dite pari🎀", event.threadID, event.messageID);
+        return api.sendMessage("Ekta image/video ba GIFs diye reply den (prefix)catbox jate sheta uplode dite pari🎀", event.threadID, event.messageID);
       };
    const msg = await api.sendMessage("✨ Apnar attachment Uploading Hocche.. Kichukkhon opekkha koren✨", event.threadID);
 
@@ -36,6 +36,6 @@ module.exports.onStart = async ({ api, event }) => {
      api.sendMessage(`🎀 Eta Apnar Uploaded Url ✨\n\n`+ data.url , event.threadID, event.messageID);
         
   } catch (e) {
-    api.sendMessage(" Apnar video/image Upload kora jacche na😔", event.threadID);
+    api.sendMessage(" Apnar video/image/GIFs Upload kora jacche na😔", event.threadID);
   }
   });
