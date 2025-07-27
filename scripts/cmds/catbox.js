@@ -1,5 +1,5 @@
 const axios = require("axios");
-const prefix = getPrefix("threadID");
+const { getPrefix } = global.utils;
 
 const baseApiUrl = async () => {
   const base = await axios.get(
