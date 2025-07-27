@@ -11,7 +11,7 @@ const baseApiUrl = async () => {
   name: "catbox",
   aliases: ["cat","cb"],
   version: "1.6.9",
-  author: "Nazrul",
+  author: "🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
   role: 0,
   category: "utility",
   Description: "Convert mp4/mp3/image to link",
@@ -25,7 +25,7 @@ module.exports.onStart = async ({ api, event }) => {
   try {
    const allUrl = event.messageReply?.attachments[0]?.url; 
    if (!allUrl) {
-        return api.sendMessage("Ekta image ba video diye reply den ${prefix}catbox jate sheta uplode dite pari🎀", event.threadID, event.messageID);
+        return api.sendMessage("Ekta image ba video diye reply den ${prefix} catbox jate sheta uplode dite pari🎀", event.threadID, event.messageID);
       };
    const msg = await api.sendMessage("✨ Apnar attachment Uploading Hocche.. Kichukkhon opekkha koren✨", event.threadID);
 
