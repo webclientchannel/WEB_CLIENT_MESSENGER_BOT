@@ -8,7 +8,7 @@ module.exports = {
     author: "🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩",
     role: 0,
     shortDescription: {
-      en: "Vibey Bot info with Xass-BaYjid sauce."
+      en: "Vibey Bot info with 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩 sauce."
     },
     longDescription: {
       en: "Displays bot stats with BaYjid coding & Xass swag."
@@ -59,7 +59,7 @@ module.exports = {
 `╭─ <𝐁𝐎𝐓 𝐈𝐍𝐅𝐎> ─╮
  │ 🧠 𝐓𝐞𝐚𝐦: 🎀ᵂᴱᴮ_𝐂𝐥𝐢𝐞𝐧𝐭🌐_𝘾𝙝𝙖𝙣𝙣𝙚𝙡_🫩
  │ 🌐 𝐂𝐡𝐚𝐧𝐧𝐞𝐥:https://www.youtube.com/@WEB_Client_Channel
- │ 🏠 𝐑𝐞𝐠𝐢𝐨𝐧: 𝐀𝐬𝐢𝐚/𝐃𝐡𝐚𝐤𝐚
+ │ 🏠 𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: 𝐂𝐡𝐨𝐭𝐭𝐨𝐠𝐫𝐚𝐦
  │ 💡 𝐒𝐭𝐚𝐭𝐮𝐬: ${botStatus}
  ├──────────
  │ 🕐 𝐓𝐢𝐦𝐞: ${localTime}
